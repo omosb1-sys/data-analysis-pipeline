@@ -1,0 +1,60 @@
+# macOS 시스템 파일
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Jupyter 관련 임시 파일
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Conda/Miniconda 환경
+miniconda3/
+.conda/
+.env
+
+# 시스템/설정 파일
+.bash_history
+.bash_profile
+.bashrc
+.zshrc
+.profile
+.python_history
+.ipython/
+.jupyter/
+
+# 디렉토리 (사용자 파일)
+Desktop/
+Documents/
+Downloads/
+Library/
+Movies/
+Music/
+Pictures/
+Public/
+Applications/
+
+# 기타 임시/캐시
+.cache/
+.config/
+.local/
+.fontconfig/
+.matplotlib/
+.vscode/
+analysis.log
+*.log
+backup.sql
+prompt.txt
+Untitled*.ipynb  # Untitled로 시작하는 노트북 무시
+
+# 당신의 특정 파일/디렉토리 (필요에 따라 추가/제거)
+.claude/
+.mcp-agent/
+serena-env/
+iODBC/
+go.py
+search_auto.py
+start_analysis.sh
+ns_book*.csv  # CSV 파일 무시 (데이터 공유 안 할 때)
