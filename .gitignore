@@ -1,4 +1,6 @@
-# macOS 시스템 파일
+# 아래 줄 추가: *.csv
+# 저장: Ctrl + O > Enter > Ctrl + X 종료
+git add .gitignore# macOS 시스템 파일
 .DS_Store
 .AppleDouble
 .LSOverride
