@@ -118,19 +118,6 @@
 
 
 
-jupyter notebooks/ : 분석 노트북
-
-src/ : 전처리/유틸 코드
-
-images/ : 결과 이미지
-
-## 실행 방법
-
-bash
-pip install -r requirements.txt
-jupyter lab
-# 또는
-jupyter notebook notebooks/자전거대여량분석.ipynb
 
 
 
