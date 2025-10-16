@@ -113,8 +113,9 @@
 ## 연락처
 프리랜서 데이터 분석가로 준비 중입니다.
 - 📧 Email: omosb1@naver.com
-- 💼 LinkedIn: 조만간 개설예정
-- 📝 Blog: 조만간 개설예정
+- 💼 LinkedIn: https://www.linkedin.com/in/%EC%84%B8%EB%B3%B5-%EC%98%A4-63288b38a/?trk=opento_sprofile_pfeditor
+- 📝 Blog: https://omosb1.tistory.com/2
+- 노션: https://www.notion.so/Data-Analytics-Portfolio-28d378b062278038a09be5c2225a818d?source=copy_link
 
 
 
