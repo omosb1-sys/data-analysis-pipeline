@@ -1,0 +1,21 @@
+{
+    "dataWrangler.defaultViewingFilterOptions": "advanced",
+    "dataWrangler.outputRenderer.enabledTypes": {
+        "numpy.ndarray": true,
+        "builtins.list": true,
+        "builtins.dict": true,
+        "torch.Tensor": true,
+        "tensorflow.python.framework.ops.EagerTensor": true,
+        "xarray.core.dataarray.DataArray": true,
+        "polars.dataframe.frame.DataFrame": true,
+        "polars.series.series.Series": true
+    },
+    "dataWrangler.startInEditModeForNotebookEntrypoints": true,
+    "dataWrangler.useRelativePath": true,
+    "dataWrangler.experiments.autoDetectCsvDelimiter": true,
+    "dataWrangler.experiments.fastCsvParsing": true,
+    "dataWrangler.enabledFileTypes": {
+        "jsonl": true
+    },
+    "dataWrangler.debug": true
+}
