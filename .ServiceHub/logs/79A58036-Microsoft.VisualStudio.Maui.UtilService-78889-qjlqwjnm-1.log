@@ -1,9 +1,0 @@
-﻿10/06/2025 08:26:14 대한민국 표준시 : Information : Local timezone is (UTC+09:00) 대한민국 표준시 (서울)
-10/06/2025 08:26:15 대한민국 표준시 : Information : Added local RPC method "Dispose" -> Microsoft.VisualStudio.Maui.UtilService.Dispose() (Microsoft.VisualStudio.Maui.UtilService)
-10/06/2025 08:26:15 대한민국 표준시 : Information : Added local RPC method "findFreeDebugPort" -> Microsoft.VisualStudio.Maui.UtilService.FindFreeDebugPortAsync(CancellationToken) (Microsoft.VisualStudio.Maui.UtilService)
-10/06/2025 08:26:15 대한민국 표준시: Information : 3 :Listening started.
-10/06/2025 08:26:30 대한민국 표준시 : Information : Microsoft.VisualStudio.Maui.UtilService read: end of stream
-10/06/2025 08:26:30 대한민국 표준시 : Information : Waiting for 'Microsoft.VisualStudio.Maui.UtilService' instance to complete its completionTask.
-10/06/2025 08:26:30 대한민국 표준시: Information : 13 :Connection closing (RemotePartyTerminated: 스트림 끝에 도달했습니다.). 
-10/06/2025 08:26:30 대한민국 표준시 : Information : Disposed 'Microsoft.VisualStudio.Maui.UtilService' via 'completionTask' method.
-10/06/2025 08:26:30 대한민국 표준시 : Information : Finishing shutting down service: Microsoft.VisualStudio.Maui.UtilService.
