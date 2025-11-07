@@ -1,0 +1,130 @@
+﻿10/06/2025 11:45:13 대한민국 표준시 : Information : Local timezone is (UTC+09:00) 대한민국 표준시 (서울)
+10/06/2025 11:45:18 대한민국 표준시 : Information : Service Hub .NET service module host started. Host id: dotnet.projectSystem$C94B8CFE-E3FD-4BAF-A941-2866DBB566FE. Controller pipe: net.pipe://13686CA2BE. PID: 13718
+10/06/2025 11:45:18 대한민국 표준시 : Information : hubHostClr read: Content-Length: 159
+
+{"jsonrpc":"2.0","id":2,"method":"InitializeHostAsync","params":[{"EnableExternalAuthorizationService":false,"HostsRootDirectory":".","AppConfigFallback":""}]}
+10/06/2025 11:45:18 대한민국 표준시 : Information : hubHostClr write: Content-Length: 93
+
+{"jsonrpc":"2.0","id":2,"result":"dotnet.projectSystem$C94B8CFE-E3FD-4BAF-A941-2866DBB566FE"}
+10/06/2025 11:45:18 대한민국 표준시 : Information : hubHostClr read: Content-Length: 1057
+
+{"jsonrpc":"2.0","id":3,"method":"StartServiceAsync","params":[{"name":"Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService","host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/CPS/platforms/darwin-x64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-x64","entryPoint":{"assemblyPath":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/CPS/platforms/darwin-x64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.ProjectInitializationStatusServiceFactory"}},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/Users/sebokoh/.ServiceHub/af9136be69/e8aac2dddc","__servicehub__RequestedServiceVersion":"0.1"},"ClientCredentials":{},"ClientCulture":"ko","ClientUICulture":"ko"}]}Content-Length: 981
+
+{"jsonrpc":"2.0","id":4,"method":"StartServiceAsync","params":[{"name":"Microsoft.VisualStudio.LaunchConfigurationService","host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/CPS/platforms/darwin-x64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-x64","entryPoint":{"assemblyPath":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/CPS/platforms/darwin-x64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory"}},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/Users/sebokoh/.ServiceHub/af9136be69/15aca9491f"},"ClientCredentials":{},"ClientCulture":"ko","ClientUICulture":"ko"}]}
+10/06/2025 11:45:18 대한민국 표준시 : Information : CLR host received start request for service 'Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService'
+10/06/2025 11:45:18 대한민국 표준시 : Information : Loading service module assembly '/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/CPS/platforms/darwin-x64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll' from '/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/CPS/platforms/darwin-x64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-x64'
+10/06/2025 11:45:18 대한민국 표준시 : Information : Starting service module 'Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService'. Class: Microsoft.VisualStudio.ProjectSystem.Server.ProjectInitializationStatusServiceFactory, Supported Version: 
+10/06/2025 11:45:18 대한민국 표준시 : Information : Started service 'Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService'. Pipe name: /Users/sebokoh/.ServiceHub/af9136be69/f93f5bf83d, Supported Version: 
+10/06/2025 11:45:18 대한민국 표준시 : Information : CLR host received start request for service 'Microsoft.VisualStudio.LaunchConfigurationService'
+10/06/2025 11:45:18 대한민국 표준시 : Information : Loading service module assembly '/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/CPS/platforms/darwin-x64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll' from '/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/CPS/platforms/darwin-x64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-x64'
+10/06/2025 11:45:18 대한민국 표준시 : Information : hubHostClr write: Content-Length: 84
+
+{"jsonrpc":"2.0","id":3,"result":"/Users/sebokoh/.ServiceHub/af9136be69/f93f5bf83d"}
+10/06/2025 11:45:18 대한민국 표준시 : Information : Starting service module 'Microsoft.VisualStudio.LaunchConfigurationService'. Class: Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory, Supported Version: 
+10/06/2025 11:45:18 대한민국 표준시 : Information : Started service 'Microsoft.VisualStudio.LaunchConfigurationService'. Pipe name: /Users/sebokoh/.ServiceHub/af9136be69/10c8c37123, Supported Version: 
+10/06/2025 11:45:18 대한민국 표준시 : Information : A new client connected to CLR service module 'Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService'
+10/06/2025 11:45:19 대한민국 표준시 : Information : hubHostClr write: Content-Length: 124
+
+{"jsonrpc":"2.0","method":"HostServicesStartedAsync","params":["dotnet.projectSystem$C94B8CFE-E3FD-4BAF-A941-2866DBB566FE"]}
+10/06/2025 11:45:19 대한민국 표준시 : Information : hubHostClr write: Content-Length: 84
+
+{"jsonrpc":"2.0","id":4,"result":"/Users/sebokoh/.ServiceHub/af9136be69/10c8c37123"}
+10/06/2025 11:45:19 대한민국 표준시 : Information : Found FactoryVersion=Version2 for service : Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService.
+10/06/2025 11:45:19 대한민국 표준시 : Information : Service 'Microsoft.VisualStudio.ProjectSystem.Server.ProjectInitializationStatusServiceFactory' implements IServiceHubServiceFactory. Creating factory instance and caching it.
+10/06/2025 11:45:19 대한민국 표준시 : Information : A new client connected to CLR service module 'Microsoft.VisualStudio.LaunchConfigurationService'
+10/06/2025 11:45:19 대한민국 표준시 : Information : Found FactoryVersion=Version2 for service : Microsoft.VisualStudio.LaunchConfigurationService.
+10/06/2025 11:45:19 대한민국 표준시 : Information : Service 'Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory' implements IServiceHubServiceFactory. Creating factory instance and caching it.
+10/06/2025 11:45:19 대한민국 표준시 : Information : Creating service Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory from factory with FactoryVersion=Version2 and ClientRequestedVersion=.
+10/06/2025 11:45:19 대한민국 표준시 : Information : Setting up RPC connection for service 'Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory' from factory
+10/06/2025 11:45:19 대한민국 표준시 : Information : Creating service Microsoft.VisualStudio.ProjectSystem.Server.ProjectInitializationStatusServiceFactory from factory with FactoryVersion=Version2 and ClientRequestedVersion=0.1.
+10/06/2025 11:45:19 대한민국 표준시 : Information : Setting up RPC connection for service 'Microsoft.VisualStudio.ProjectSystem.Server.ProjectInitializationStatusServiceFactory' from factory
+10/06/2025 11:45:19 대한민국 표준시 : Information : Failed to find static method for retrieving an internal AuthorizationServiceClient.
+10/06/2025 11:45:19 대한민국 표준시 : Information : Failed to find static method for retrieving an internal AuthorizationServiceClient.
+10/06/2025 11:45:20 대한민국 표준시 : Information : hubHostClr read: Content-Length: 1057
+
+{"jsonrpc":"2.0","id":5,"method":"StartServiceAsync","params":[{"name":"Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService","host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/CPS/platforms/darwin-x64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-x64","entryPoint":{"assemblyPath":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/CPS/platforms/darwin-x64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.ProjectInitializationStatusServiceFactory"}},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/Users/sebokoh/.ServiceHub/af9136be69/6e0fa5f28e","__servicehub__RequestedServiceVersion":"0.1"},"ClientCredentials":{},"ClientCulture":"ko","ClientUICulture":"ko"}]}
+10/06/2025 11:45:20 대한민국 표준시 : Information : CLR host received start request for service 'Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService'
+10/06/2025 11:45:20 대한민국 표준시 : Information : Loading service module assembly '/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/CPS/platforms/darwin-x64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll' from '/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/CPS/platforms/darwin-x64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-x64'
+10/06/2025 11:45:20 대한민국 표준시 : Information : Starting service module 'Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService'. Class: Microsoft.VisualStudio.ProjectSystem.Server.ProjectInitializationStatusServiceFactory, Supported Version: 
+10/06/2025 11:45:20 대한민국 표준시 : Information : Started service 'Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService'. Pipe name: /Users/sebokoh/.ServiceHub/af9136be69/66d97e0192, Supported Version: 
+10/06/2025 11:45:20 대한민국 표준시 : Information : hubHostClr write: Content-Length: 84
+
+{"jsonrpc":"2.0","id":5,"result":"/Users/sebokoh/.ServiceHub/af9136be69/66d97e0192"}
+10/06/2025 11:45:20 대한민국 표준시 : Information : A new client connected to CLR service module 'Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService'
+10/06/2025 11:45:20 대한민국 표준시 : Information : Found IServiceHubServiceFactory in cache. Creating instance from the factory.
+10/06/2025 11:45:21 대한민국 표준시 : Information : Creating service Microsoft.VisualStudio.ProjectSystem.Server.ProjectInitializationStatusServiceFactory from factory with FactoryVersion=Version2 and ClientRequestedVersion=0.1.
+10/06/2025 11:45:21 대한민국 표준시 : Information : Setting up RPC connection for service 'Microsoft.VisualStudio.ProjectSystem.Server.ProjectInitializationStatusServiceFactory' from factory
+10/06/2025 11:45:21 대한민국 표준시 : Information : Failed to find static method for retrieving an internal AuthorizationServiceClient.
+10/06/2025 11:45:21 대한민국 표준시 : Information : hubHostClr read: Content-Length: 1046
+
+{"jsonrpc":"2.0","id":6,"method":"StartServiceAsync","params":[{"name":"Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService","host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/CPS/platforms/darwin-x64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-x64","entryPoint":{"assemblyPath":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/CPS/platforms/darwin-x64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory"}},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/Users/sebokoh/.ServiceHub/af9136be69/7b34d6a4b8","__servicehub__RequestedServiceVersion":"0.2"},"ClientCredentials":{},"ClientCulture":"ko","ClientUICulture":"ko"}]}
+10/06/2025 11:45:21 대한민국 표준시 : Information : CLR host received start request for service 'Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService'
+10/06/2025 11:45:21 대한민국 표준시 : Information : Loading service module assembly '/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/CPS/platforms/darwin-x64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll' from '/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/CPS/platforms/darwin-x64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-x64'
+10/06/2025 11:45:21 대한민국 표준시 : Information : Starting service module 'Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService'. Class: Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory, Supported Version: 
+10/06/2025 11:45:21 대한민국 표준시 : Information : Started service 'Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService'. Pipe name: /Users/sebokoh/.ServiceHub/af9136be69/1a36f855cb, Supported Version: 
+10/06/2025 11:45:21 대한민국 표준시 : Information : hubHostClr write: Content-Length: 84
+
+{"jsonrpc":"2.0","id":6,"result":"/Users/sebokoh/.ServiceHub/af9136be69/1a36f855cb"}
+10/06/2025 11:45:21 대한민국 표준시 : Information : A new client connected to CLR service module 'Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService'
+10/06/2025 11:45:21 대한민국 표준시 : Information : Found FactoryVersion=Version2 for service : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService.
+10/06/2025 11:45:21 대한민국 표준시 : Information : Service 'Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory' implements IServiceHubServiceFactory. Creating factory instance and caching it.
+10/06/2025 11:45:21 대한민국 표준시 : Information : Creating service Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory from factory with FactoryVersion=Version2 and ClientRequestedVersion=0.2.
+10/06/2025 11:45:21 대한민국 표준시 : Information : Setting up RPC connection for service 'Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory' from factory
+10/06/2025 11:45:21 대한민국 표준시 : Information : Failed to find static method for retrieving an internal AuthorizationServiceClient.
+10/06/2025 11:45:21 대한민국 표준시 : Information : hubHostClr read: Content-Length: 1025
+
+{"jsonrpc":"2.0","id":7,"method":"StartServiceAsync","params":[{"name":"Microsoft.VisualStudio.ProjectSystem.CompositionService","host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/CPS/platforms/darwin-x64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-x64","entryPoint":{"assemblyPath":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/CPS/platforms/darwin-x64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.CompositionServiceFactory"}},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/Users/sebokoh/.ServiceHub/af9136be69/b089a93a84","__servicehub__RequestedServiceVersion":"0.1"},"ClientCredentials":{},"ClientCulture":"ko","ClientUICulture":"ko"}]}
+10/06/2025 11:45:21 대한민국 표준시 : Information : CLR host received start request for service 'Microsoft.VisualStudio.ProjectSystem.CompositionService'
+10/06/2025 11:45:21 대한민국 표준시 : Information : Loading service module assembly '/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/CPS/platforms/darwin-x64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll' from '/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/CPS/platforms/darwin-x64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-x64'
+10/06/2025 11:45:21 대한민국 표준시 : Information : Starting service module 'Microsoft.VisualStudio.ProjectSystem.CompositionService'. Class: Microsoft.VisualStudio.ProjectSystem.Server.CompositionServiceFactory, Supported Version: 
+10/06/2025 11:45:21 대한민국 표준시 : Information : Started service 'Microsoft.VisualStudio.ProjectSystem.CompositionService'. Pipe name: /Users/sebokoh/.ServiceHub/af9136be69/8f4423b6e8, Supported Version: 
+10/06/2025 11:45:21 대한민국 표준시 : Information : hubHostClr write: Content-Length: 84
+
+{"jsonrpc":"2.0","id":7,"result":"/Users/sebokoh/.ServiceHub/af9136be69/8f4423b6e8"}
+10/06/2025 11:45:21 대한민국 표준시 : Information : A new client connected to CLR service module 'Microsoft.VisualStudio.ProjectSystem.CompositionService'
+10/06/2025 11:45:21 대한민국 표준시 : Information : Found FactoryVersion=Version2 for service : Microsoft.VisualStudio.ProjectSystem.CompositionService.
+10/06/2025 11:45:21 대한민국 표준시 : Information : Service 'Microsoft.VisualStudio.ProjectSystem.Server.CompositionServiceFactory' implements IServiceHubServiceFactory. Creating factory instance and caching it.
+10/06/2025 11:45:21 대한민국 표준시 : Information : Creating service Microsoft.VisualStudio.ProjectSystem.Server.CompositionServiceFactory from factory with FactoryVersion=Version2 and ClientRequestedVersion=0.1.
+10/06/2025 11:45:21 대한민국 표준시 : Information : Setting up RPC connection for service 'Microsoft.VisualStudio.ProjectSystem.Server.CompositionServiceFactory' from factory
+10/06/2025 11:45:21 대한민국 표준시 : Information : Failed to find static method for retrieving an internal AuthorizationServiceClient.
+10/06/2025 11:45:22 대한민국 표준시 : Information : Completed RPC connection setup for service 'Microsoft.VisualStudio.ProjectSystem.Server.CompositionServiceFactory' from factory
+10/06/2025 11:45:22 대한민국 표준시 : Information : Completed RPC connection setup for service 'Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory' from factory
+10/06/2025 11:45:22 대한민국 표준시 : Information : Completed RPC connection setup for service 'Microsoft.VisualStudio.ProjectSystem.Server.ProjectInitializationStatusServiceFactory' from factory
+10/06/2025 11:45:22 대한민국 표준시 : Information : Completed RPC connection setup for service 'Microsoft.VisualStudio.ProjectSystem.Server.ProjectInitializationStatusServiceFactory' from factory
+10/06/2025 11:45:22 대한민국 표준시 : Information : Completed RPC connection setup for service 'Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory' from factory
+10/06/2025 11:45:23 대한민국 표준시 : Information : hubHostClr read: Content-Length: 1046
+
+{"jsonrpc":"2.0","id":8,"method":"StartServiceAsync","params":[{"name":"Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService","host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/CPS/platforms/darwin-x64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-x64","entryPoint":{"assemblyPath":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/CPS/platforms/darwin-x64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory"}},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/Users/sebokoh/.ServiceHub/af9136be69/4e438f2437","__servicehub__RequestedServiceVersion":"0.3"},"ClientCredentials":{},"ClientCulture":"ko","ClientUICulture":"ko"}]}
+10/06/2025 11:45:23 대한민국 표준시 : Information : CLR host received start request for service 'Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService'
+10/06/2025 11:45:23 대한민국 표준시 : Information : Loading service module assembly '/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/CPS/platforms/darwin-x64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll' from '/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/CPS/platforms/darwin-x64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-x64'
+10/06/2025 11:45:23 대한민국 표준시 : Information : Starting service module 'Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService'. Class: Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory, Supported Version: 
+10/06/2025 11:45:23 대한민국 표준시 : Information : Started service 'Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService'. Pipe name: /Users/sebokoh/.ServiceHub/af9136be69/bf3d30405e, Supported Version: 
+10/06/2025 11:45:23 대한민국 표준시 : Information : hubHostClr write: Content-Length: 84
+
+{"jsonrpc":"2.0","id":8,"result":"/Users/sebokoh/.ServiceHub/af9136be69/bf3d30405e"}
+10/06/2025 11:45:23 대한민국 표준시 : Information : A new client connected to CLR service module 'Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService'
+10/06/2025 11:45:23 대한민국 표준시 : Information : Found IServiceHubServiceFactory in cache. Creating instance from the factory.
+10/06/2025 11:45:23 대한민국 표준시 : Information : Creating service Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory from factory with FactoryVersion=Version2 and ClientRequestedVersion=0.3.
+10/06/2025 11:45:23 대한민국 표준시 : Information : Setting up RPC connection for service 'Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory' from factory
+10/06/2025 11:45:23 대한민국 표준시 : Information : Failed to find static method for retrieving an internal AuthorizationServiceClient.
+10/06/2025 11:45:24 대한민국 표준시 : Information : Completed RPC connection setup for service 'Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory' from factory
+10/06/2025 11:56:50 대한민국 표준시 : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory' implements Microsoft.VisualStudio.Threading.IAsyncDisposable.
+10/06/2025 11:56:50 대한민국 표준시 : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory' implements System.IAsyncDisposable.
+10/06/2025 11:56:50 대한민국 표준시 : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory' implements System.IDisposable.
+10/06/2025 11:56:50 대한민국 표준시 : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.ProjectInitializationStatusServiceFactory' implements Microsoft.VisualStudio.Threading.IAsyncDisposable.
+10/06/2025 11:56:50 대한민국 표준시 : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.ProjectInitializationStatusServiceFactory' implements System.IAsyncDisposable.
+10/06/2025 11:56:50 대한민국 표준시 : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.ProjectInitializationStatusServiceFactory' implements System.IDisposable.
+10/06/2025 11:56:50 대한민국 표준시 : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory' implements Microsoft.VisualStudio.Threading.IAsyncDisposable.
+10/06/2025 11:56:50 대한민국 표준시 : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory' implements System.IAsyncDisposable.
+10/06/2025 11:56:50 대한민국 표준시 : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory' implements System.IDisposable.
+10/06/2025 11:56:51 대한민국 표준시 : Information : hubHostClr read: end of stream
+10/06/2025 11:56:51 대한민국 표준시 : Error : Disconnected hubHostClr RemotePartyTerminated error: : 스트림 끝에 도달했습니다. at 
+10/06/2025 11:56:51 대한민국 표준시 : Error : Controller callback pipe is connected: 'False'
+    Controller callback pipe has reached the end: 'True'
+    Controller callback pipe has been disposed: 'False'
+    JsonRpc object is disposed: 'False'
+    MessageHandler is disposed: 'False'
+    Reason: 'RemotePartyTerminated'
+    Description: '스트림 끝에 도달했습니다.'
+    Host is disposed: 'False'
+

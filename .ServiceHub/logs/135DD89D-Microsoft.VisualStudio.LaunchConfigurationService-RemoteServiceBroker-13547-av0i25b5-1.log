@@ -1,0 +1,32 @@
+﻿10/06/2025 11:45:19 대한민국 표준시 : Information : Local timezone is (UTC+09:00) 대한민국 표준시 (서울)
+10/06/2025 11:45:19 대한민국 표준시 : Information : Added local RPC method "getPipe" -> Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.GetPipeAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken) (Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View)
+10/06/2025 11:45:19 대한민국 표준시 : Information : Added local RPC method "getProxy" -> Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.GetProxyAsync(ServiceRpcDescriptor, ServiceActivationOptions, CancellationToken) (Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View)
+10/06/2025 11:45:19 대한민국 표준시 : Information : Added local RPC method "handshake" -> Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.HandshakeAsync(ServiceBrokerClientMetadata, CancellationToken) (Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View)
+10/06/2025 11:45:19 대한민국 표준시 : Information : Added local RPC method "requestServiceChannel" -> Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken) (Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View)
+10/06/2025 11:45:19 대한민국 표준시 : Information : Added local RPC method "cancelServiceRequest" -> Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.CancelServiceRequestAsync(Guid) (Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View)
+10/06/2025 11:45:19 대한민국 표준시 : Information : Added local RPC method "getPipe" -> Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.GetPipeAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken) (Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View)
+10/06/2025 11:45:19 대한민국 표준시 : Information : Added local RPC method "getProxy" -> Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.GetProxyAsync(ServiceRpcDescriptor, ServiceActivationOptions, CancellationToken) (Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View)
+10/06/2025 11:45:19 대한민국 표준시 : Information : Added local RPC method "handshake" -> Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.HandshakeAsync(ServiceBrokerClientMetadata, CancellationToken) (Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View)
+10/06/2025 11:45:19 대한민국 표준시 : Information : Added local RPC method "requestServiceChannel" -> Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken) (Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View)
+10/06/2025 11:45:19 대한민국 표준시 : Information : Added local RPC method "cancelServiceRequest" -> Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.CancelServiceRequestAsync(Guid) (Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View)
+10/06/2025 11:45:19 대한민국 표준시: Information : 2 :Listening for events from Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.AvailabilityChanged to raise notification.
+10/06/2025 11:45:19 대한민국 표준시: Information : 3 :Listening started.
+10/06/2025 11:45:19 대한민국 표준시: Information : 7 :{"id":2,"method":"handshake"}
+10/06/2025 11:45:19 대한민국 표준시: Information : 6 :Received request "2" for method "handshake".
+10/06/2025 11:45:19 대한민국 표준시: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.HandshakeAsync(ServiceBrokerClientMetadata, CancellationToken)
+10/06/2025 11:45:19 대한민국 표준시 : Start : handshake
+10/06/2025 11:45:19 대한민국 표준시 : Stop : handshake
+10/06/2025 11:45:19 대한민국 표준시: Information : 8 :{"id":2}
+10/06/2025 11:45:20 대한민국 표준시: Information : 7 :{"id":3,"method":"requestServiceChannel"}
+10/06/2025 11:45:20 대한민국 표준시: Information : 6 :Received request "3" for method "requestServiceChannel".
+10/06/2025 11:45:20 대한민국 표준시: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+10/06/2025 11:45:20 대한민국 표준시 : Start : requestServiceChannel
+10/06/2025 11:45:20 대한민국 표준시 : Stop : requestServiceChannel
+10/06/2025 11:45:20 대한민국 표준시: Information : 8 :{"id":3}
+10/06/2025 11:45:21 대한민국 표준시: Information : 7 :{"id":4,"method":"requestServiceChannel"}
+10/06/2025 11:45:21 대한민국 표준시: Information : 6 :Received request "4" for method "requestServiceChannel".
+10/06/2025 11:45:21 대한민국 표준시: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+10/06/2025 11:45:21 대한민국 표준시 : Start : requestServiceChannel
+10/06/2025 11:45:21 대한민국 표준시 : Stop : requestServiceChannel
+10/06/2025 11:45:21 대한민국 표준시: Information : 8 :{"id":4}
+10/06/2025 11:56:50 대한민국 표준시: Information : 13 :Connection closing (RemotePartyTerminated: 스트림 끝에 도달했습니다.). 

@@ -1,0 +1,8 @@
+﻿10/06/2025 08:08:20 대한민국 표준시 : Information : Local timezone is (UTC+09:00) 대한민국 표준시 (서울)
+10/06/2025 08:08:20 대한민국 표준시 : Information : Acquiring semaphore to try to start the Controller.
+10/06/2025 08:08:20 대한민국 표준시 : Information : Beginning to try to start the Controller.
+10/06/2025 08:08:20 대한민국 표준시 : Information : Starting hub controller
+10/06/2025 08:08:20 대한민국 표준시 : Information : Setting environment variable 'ServiceHubCurrentOsLocale' to 'ko' in the "/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/vs-green-server/platforms/darwin-x64/node_modules/@microsoft/visualstudio-controller.darwin-x64/Microsoft.VisualStudio.Code.ServiceController" process.
+10/06/2025 08:08:20 대한민국 표준시 : Information : Setting environment variable 'ServiceHubLocationServicePipeName' to 'db1af26902' in the "/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/vs-green-server/platforms/darwin-x64/node_modules/@microsoft/visualstudio-controller.darwin-x64/Microsoft.VisualStudio.Code.ServiceController" process.
+10/06/2025 08:08:20 대한민국 표준시 : Information : Attempting to connect to location service pipe at 'db1af26902'.
+10/06/2025 08:08:25 대한민국 표준시 : Information : Hub controller started. PID 76135

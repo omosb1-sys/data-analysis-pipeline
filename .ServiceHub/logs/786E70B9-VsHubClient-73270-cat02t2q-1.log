@@ -1,0 +1,335 @@
+﻿10/06/2025 07:42:05 대한민국 표준시 : Information : Local timezone is (UTC+09:00) 대한민국 표준시 (서울)
+10/06/2025 07:42:14 대한민국 표준시 : Information : VsHubClient-hubController write: Content-Length: 109
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":73270}]}
+10/06/2025 07:42:14 대한민국 표준시 : Information : VsHubClient-hubController read: Content-Length: 491
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://73287E6202","ControllerConfig":{"Executable":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/vs-green-server/platforms/darwin-x64/node_modules/@microsoft/visualstudio-controller.darwin-x64/Microsoft.VisualStudio.Code.ServiceController","Args":["d7ecb1411c"],"PipeName":"d7ecb1411c"},"HostsConfig":{"EnableExternalAuthorizationService":false,"RootDir":".","AppConfigFallback":""}}}
+10/06/2025 07:42:14 대한민국 표준시 : Information : Connected to Hub Controller's client watch 'net.pipe://73287E6202
+10/06/2025 07:42:17 대한민국 표준시 : Information : VsHubClient-hubController write: Content-Length: 109
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":73270}]}
+10/06/2025 07:42:17 대한민국 표준시 : Information : VsHubClient-hubController read: Content-Length: 491
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://73287E6202","ControllerConfig":{"Executable":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/vs-green-server/platforms/darwin-x64/node_modules/@microsoft/visualstudio-controller.darwin-x64/Microsoft.VisualStudio.Code.ServiceController","Args":["d7ecb1411c"],"PipeName":"d7ecb1411c"},"HostsConfig":{"EnableExternalAuthorizationService":false,"RootDir":".","AppConfigFallback":""}}}
+10/06/2025 07:42:17 대한민국 표준시 : Information : VsHubClient-hubController write: Content-Length: 14186
+
+
+10/06/2025 07:42:17 대한민국 표준시 : Information : VsHubClient-hubController write: {"jsonrpc":"2.0","id":3,"method":"RegisterServicesAsync","params":[{"Microsoft.VisualStudio.CpsProjectIconSourceService":{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/CPS/platforms/darwin-x64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-x64","entryPoint":{"assemblyPath":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/CPS/platforms/darwin-x64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.ProjectIconSourceServiceFactory"}},"Microsoft.VisualStudio.LaunchConfigurationService":{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/CPS/platforms/darwin-x64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-x64","entryPoint":{"assemblyPath":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/CPS/platforms/darwin-x64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory"}},"Microsoft.VisualStudio.ProjectSystem.CompositionService":{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/CPS/platforms/darwin-x64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-x64","entryPoint":{"assemblyPath":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/CPS/platforms/darwin-x64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.CompositionServiceFactory"}},"Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService":{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/CPS/platforms/darwin-x64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-x64","entryPoint":{"assemblyPath":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/CPS/platforms/darwin-x64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.ProjectInitializationStatusServiceFactory"}},"Microsoft.VisualStudio.ProjectSystem.ProjectTreeProvider":{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/CPS/platforms/darwin-x64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-x64","entryPoint":{"assemblyPath":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/CPS/platforms/darwin-x64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.ProjectTreeProviderFactory"}},"Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService":{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/CPS/platforms/darwin-x64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-x64","entryPoint":{"assemblyPath":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/CPS/platforms/darwin-x64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory"}},"Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/VSUnitTesting/platforms/darwin-x64/node_modules/@microsoft/visualstudio-testwindow-vscode-service.darwin-x64","entryPoint":{"assemblyPath":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/VSUnitTesting/platforms/darwin-x64/node_modules/@microsoft/visualstudio-testwindow-vscode-service.darwin-x64/Microsoft.VisualStudio.TestWindow.VSCode.Service.dll","fullClassName":"Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service.ProjectSystemProviderServiceFactory"}},"Microsoft.VisualStudio.TestWindow.VSCode.Service":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/VSUnitTesting/platforms/darwin-x64/node_modules/@microsoft/visualstudio-testwindow-vscode-service.darwin-x64","entryPoint":{"assemblyPath":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/VSUnitTesting/platforms/darwin-x64/node_modules/@microsoft/visualstudio-testwindow-vscode-service.darwin-x64/Microsoft.VisualStudio.TestWindow.VSCode.Service.dll","fullClassName":"Microsoft.VisualStudio.TestWindow.VSCode.Service.TestWindowVSCodeServiceFactory"}},"Microsoft.VisualStudio.AspireRunSettingService":{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/WebTools/node_modules/@microsoft/vscode.webtools/Services","entryPoint":{"assemblyPath":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/WebTools/node_modules/@microsoft/vscode.webtools/Services/Microsoft.WebTools.Aspire.VSCode.Services.dll","fullClassName":"Microsoft.WebTools.Aspire.VSCode.Services.AspireRunSettingServiceFactory"},"friendServices":["Microsoft.VisualStudio.ProjectSystem.CompositionService"]},"Microsoft.VisualStudio.AspireServer":{"host":"dotnet.aspireServer","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/WebTools/node_modules/@microsoft/vscode.webtools/Services","entryPoint":{"assemblyPath":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/WebTools/node_modules/@microsoft/vscode.webtools/Services/Microsoft.WebTools.AspireServer.dll","fullClassName":"Microsoft.WebTools.AspireServer.ServiceFactory"}},"Microsoft.VisualStudio.AspireService":{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/WebTools/node_modules/@microsoft/vscode.webtools/Services","entryPoint":{"assemblyPath":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/WebTools/node_modules/@microsoft/vscode.webtools/Services/Microsoft.WebTools.Aspire.VSCode.Services.dll","fullClassName":"Microsoft.WebTools.Aspire.VSCode.Services.AspireServiceFactory"},"friendServices":["Microsoft.VisualStudio.ProjectSystem.CompositionService"]},"Microsoft.VisualStudio.Debugger.AspireService":{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/WebTools/node_modules/@microsoft/vscode.webtools/Services","entryPoint":{"assemblyPath":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/WebTools/node_modules/@microsoft/vscode.webtools/Services/Microsoft.WebTools.Aspire.VSCode.Services.dll","fullClassName":"Microsoft.WebTools.Aspire.VSCode.Services.AspireDebugServiceFactory"},"friendServices":["Microsoft.VisualStudio.ProjectSystem.CompositionService"]},"Microsoft.VisualStudio.WebTools.CssVisualDiagnosticsService":{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/WebTools/node_modules/@microsoft/vscode.webtools","entryPoint":{"assemblyPath":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/WebTools/node_modules/@microsoft/vscode.webtools/Microsoft.WebTools.ProjectSystem.VSCode.dll","fullClassName":"Microsoft.WebTools.ProjectSystem.VSCode.VisualDiagnostics.CssVisualDiagnosticsFactory"},"friendServices":["Microsoft.VisualStudio.ProjectSystem.CompositionService"]},"Microsoft.VisualStudio.ProjectSystem.DebugTargetFrameworkService":{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/dotnet-project-system-vscode/node_modules/@microsoft/vscode.projectsystem.managed/Services","entryPoint":{"assemblyPath":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/dotnet-project-system-vscode/node_modules/@microsoft/vscode.projectsystem.managed/Services/Microsoft.ProjectSystem.Managed.VSCode.Services.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Services.DebugTargetFrameworkServiceFactory"},"friendServices":["Microsoft.VisualStudio.ProjectSystem.CompositionService"]},"Microsoft.VisualStudio.ProjectQueryTestService":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/vs-green-server/platforms/darwin-x64/node_modules/@microsoft/visualstudio-server-samples-sayhello.darwin-x64","entryPoint":{"assemblyPath":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/vs-green-server/platforms/darwin-x64/node_modules/@microsoft/visualstudio-server-samples-sayhello.darwin-x64/Microsoft.VisualStudio.Samples.SayHello.dll","fullClassName":"Microsoft.VisualStudio.Samples.SayHello.ProjectQueryTestServiceFactory"}},"helloServiceHubDotNetHost":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/vs-green-server/platforms/darwin-x64/node_modules/@microsoft/visualstudio-server-samples-sayhello.darwin-x64","entryPoint":{"assemblyPath":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/vs-green-server/platforms/darwin-x64/node_modules/@microsoft/visualstudio-server-samples-sayhello.darwin-x64/Microsoft.VisualStudio.Samples.SayHello.dll","fullClassName":"Microsoft.VisualStudio.Samples.SayHello.HelloWorldFactory"}},"Microsoft.VisualStudio.Maui.Devices.AndroidDeviceManager":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.dotnet-maui-1.10.18-darwin-x64/dist/components/MicrosoftVisualStudioMauiDevices","entryPoint":{"assemblyPath":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.dotnet-maui-1.10.18-darwin-x64/dist/components/MicrosoftVisualStudioMauiDevices/Microsoft.VisualStudio.Maui.Devices.dll","fullClassName":"Microsoft.VisualStudio.Maui.Devices.AndroidDeviceManagerFactory"}},"Microsoft.VisualStudio.Maui.Devices.AppleDeviceManager":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.dotnet-maui-1.10.18-darwin-x64/dist/components/MicrosoftVisualStudioMauiDevices","entryPoint":{"assemblyPath":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.dotnet-maui-1.10.18-darwin-x64/dist/components/MicrosoftVisualStudioMauiDevices/Microsoft.VisualStudio.Maui.Devices.dll","fullClassName":"Microsoft.VisualStudio.Maui.Devices.AppleDeviceManagerFactory"}},"Microsoft.VisualStudio.Maui.UtilService":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.dotnet-maui-1.10.18-darwin-x64/dist/components/MicrosoftVisualStudioMauiDevices","entryPoint":{"assemblyPath":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.dotnet-maui-1.10.18-darwin-x64/dist/components/MicrosoftVisualStudioMauiDevices/Microsoft.VisualStudio.Maui.Devices.dll","fullClassName":"Microsoft.VisualStudio.Maui.UtilServiceFactory"}},"Microsoft.VisualStudio.Maui.ProjectSystem.MauiLaunchInformationService":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.dotnet-maui-1.10.18-darwin-x64/dist/components/MicrosoftVisualStudioMauiProjectSystem","entryPoint":{"assemblyPath":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.dotnet-maui-1.10.18-darwin-x64/dist/components/MicrosoftVisualStudioMauiProjectSystem/Microsoft.VisualStudio.Maui.ProjectSystem.dll","fullClassName":"Microsoft.VisualStudio.Maui.ProjectSystem.MauiLaunchInformationServiceFactory"}},"Microsoft.VisualStudio.Maui.ProjectSystem.PropertiesMonitor":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.dotnet-maui-1.10.18-darwin-x64/dist/components/MicrosoftVisualStudioMauiProjectSystem","entryPoint":{"assemblyPath":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.dotnet-maui-1.10.18-darwin-x64/dist/components/MicrosoftVisualStudioMauiProjectSystem/Microsoft.VisualStudio.Maui.ProjectSystem.dll","fullClassName":"Microsoft.VisualStudio.Maui.ProjectSystem.PropertiesMonitorFactory"}}}]}
+10/06/2025 07:42:17 대한민국 표준시 : Information : VsHubClient-hubController read: Content-Length: 38
+
+{"jsonrpc":"2.0","id":3,"result":null}
+10/06/2025 07:42:17 대한민국 표준시 : Information : VsHubClient-hubController write: Content-Length: 342
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.TestWindow.VSCode.Service","Version":"0.1"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/Users/sebokoh/.ServiceHub/d7ecb1411c/9a25ee8c46"},"ClientCredentials":{},"ClientCulture":"ko","ClientUICulture":"ko"}]}Content-Length: 327
+
+{"jsonrpc":"2.0","id":4,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.LaunchConfigurationService"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/Users/sebokoh/.ServiceHub/d7ecb1411c/0d90a25d7d"},"ClientCredentials":{},"ClientCulture":"ko","ClientUICulture":"ko"}]}Content-Length: 365
+
+{"jsonrpc":"2.0","id":5,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService","Version":"0.1"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/Users/sebokoh/.ServiceHub/d7ecb1411c/73e62a526b"},"ClientCredentials":{},"ClientCulture":"ko","ClientUICulture":"ko"}]}
+10/06/2025 07:42:17 대한민국 표준시 : Information : VsHubClient-hubController write: Content-Length: 333
+
+{"jsonrpc":"2.0","id":6,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.Maui.UtilService","Version":"0.1"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/Users/sebokoh/.ServiceHub/d7ecb1411c/f7f0bbea63"},"ClientCredentials":{},"ClientCulture":"ko","ClientUICulture":"ko"}]}
+10/06/2025 07:42:31 대한민국 표준시 : Information : VsHubClient-hubController read: Content-Length: 164
+
+{"jsonrpc":"2.0","id":3,"result":{"RequestId":"27ed966b-8cfc-4c3e-8d0e-055dbedf03c4","PipeName":"/Users/sebokoh/.ServiceHub/d7ecb1411c/3340e0cf03","IsEmpty":false}}
+10/06/2025 07:42:31 대한민국 표준시 : Information : VsHubClient-hubController read: Content-Length: 164
+
+{"jsonrpc":"2.0","id":6,"result":{"RequestId":"03872e97-2f7d-4ff5-9b9a-658fd5ba2394","PipeName":"/Users/sebokoh/.ServiceHub/d7ecb1411c/60bb62532a","IsEmpty":false}}
+10/06/2025 07:42:31 대한민국 표준시 : Information : Disposing ServiceBroker server '/Users/sebokoh/.ServiceHub/d7ecb1411c/9a25ee8c46'.
+10/06/2025 07:42:31 대한민국 표준시 : Information : VsHubClient-hubController write: Content-Length: 350
+
+{"jsonrpc":"2.0","id":7,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.Maui.Devices.AndroidDeviceManager","Version":"0.1"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/Users/sebokoh/.ServiceHub/d7ecb1411c/9f2d5fc030"},"ClientCredentials":{},"ClientCulture":"ko","ClientUICulture":"ko"}]}
+10/06/2025 07:42:31 대한민국 표준시 : Information : Microsoft.VisualStudio.TestWindow.VSCode.Service-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":2,"processArchitecture":1,"runtime":2,"runtimeVersion":"9.0.9"}}]}
+10/06/2025 07:42:31 대한민국 표준시 : Information : Microsoft.VisualStudio.TestWindow.VSCode.Service-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+10/06/2025 07:42:31 대한민국 표준시 : Information : Disposing ServiceBroker server '/Users/sebokoh/.ServiceHub/d7ecb1411c/f7f0bbea63'.
+10/06/2025 07:42:31 대한민국 표준시 : Information : VsHubClient-hubController read: Content-Length: 164
+
+{"jsonrpc":"2.0","id":7,"result":{"RequestId":"d780b78c-4d93-4737-99ce-457b200d5b59","PipeName":"/Users/sebokoh/.ServiceHub/d7ecb1411c/fe805402ef","IsEmpty":false}}
+10/06/2025 07:42:31 대한민국 표준시 : Information : Microsoft.VisualStudio.Maui.UtilService-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":2,"processArchitecture":1,"runtime":2,"runtimeVersion":"9.0.9"}}]}
+10/06/2025 07:42:31 대한민국 표준시 : Information : Microsoft.VisualStudio.Maui.UtilService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+10/06/2025 07:42:31 대한민국 표준시 : Information : VsHubClient-hubController write: Content-Length: 348
+
+{"jsonrpc":"2.0","id":8,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.Maui.Devices.AppleDeviceManager","Version":"0.1"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/Users/sebokoh/.ServiceHub/d7ecb1411c/c39617c4ea"},"ClientCredentials":{},"ClientCulture":"ko","ClientUICulture":"ko"}]}
+10/06/2025 07:42:31 대한민국 표준시 : Information : Disposing ServiceBroker server '/Users/sebokoh/.ServiceHub/d7ecb1411c/9f2d5fc030'.
+10/06/2025 07:42:31 대한민국 표준시 : Information : Microsoft.VisualStudio.Maui.Devices.AndroidDeviceManager-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":2,"processArchitecture":1,"runtime":2,"runtimeVersion":"9.0.9"}}]}
+10/06/2025 07:42:31 대한민국 표준시 : Information : VsHubClient-hubController read: Content-Length: 164
+
+{"jsonrpc":"2.0","id":8,"result":{"RequestId":"e0406e76-bc56-4dac-89c7-940e8377ccea","PipeName":"/Users/sebokoh/.ServiceHub/d7ecb1411c/eb17400896","IsEmpty":false}}
+10/06/2025 07:42:31 대한민국 표준시 : Information : Microsoft.VisualStudio.Maui.Devices.AndroidDeviceManager-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+10/06/2025 07:42:31 대한민국 표준시 : Information : VsHubClient-hubController write: Content-Length: 353
+
+{"jsonrpc":"2.0","id":9,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.Maui.ProjectSystem.PropertiesMonitor","Version":"0.1"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/Users/sebokoh/.ServiceHub/d7ecb1411c/cfb4e58e5f"},"ClientCredentials":{},"ClientCulture":"ko","ClientUICulture":"ko"}]}
+10/06/2025 07:42:31 대한민국 표준시 : Information : Disposing ServiceBroker server '/Users/sebokoh/.ServiceHub/d7ecb1411c/c39617c4ea'.
+10/06/2025 07:42:31 대한민국 표준시 : Information : Microsoft.VisualStudio.Maui.Devices.AppleDeviceManager-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":2,"processArchitecture":1,"runtime":2,"runtimeVersion":"9.0.9"}}]}
+10/06/2025 07:42:31 대한민국 표준시 : Information : VsHubClient-hubController read: Content-Length: 164
+
+{"jsonrpc":"2.0","id":9,"result":{"RequestId":"2602cd2e-f5d1-4e24-8ad8-0fed8b111bce","PipeName":"/Users/sebokoh/.ServiceHub/d7ecb1411c/979eb21a7f","IsEmpty":false}}
+10/06/2025 07:42:31 대한민국 표준시 : Information : Microsoft.VisualStudio.Maui.Devices.AppleDeviceManager-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+10/06/2025 07:42:31 대한민국 표준시 : Information : VsHubClient-hubController write: Content-Length: 365
+
+{"jsonrpc":"2.0","id":10,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.Maui.ProjectSystem.MauiLaunchInformationService","Version":"0.1"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/Users/sebokoh/.ServiceHub/d7ecb1411c/5b6befa92c"},"ClientCredentials":{},"ClientCulture":"ko","ClientUICulture":"ko"}]}
+10/06/2025 07:42:31 대한민국 표준시 : Information : Disposing ServiceBroker server '/Users/sebokoh/.ServiceHub/d7ecb1411c/cfb4e58e5f'.
+10/06/2025 07:42:31 대한민국 표준시 : Information : Microsoft.VisualStudio.Maui.ProjectSystem.PropertiesMonitor-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":2,"processArchitecture":1,"runtime":2,"runtimeVersion":"9.0.9"}}]}
+10/06/2025 07:42:31 대한민국 표준시 : Information : VsHubClient-hubController read: Content-Length: 165
+
+{"jsonrpc":"2.0","id":10,"result":{"RequestId":"18eb3adb-bd1c-4ddb-bec6-f029480051e5","PipeName":"/Users/sebokoh/.ServiceHub/d7ecb1411c/78f266afb5","IsEmpty":false}}
+10/06/2025 07:42:31 대한민국 표준시 : Information : Microsoft.VisualStudio.Maui.ProjectSystem.PropertiesMonitor-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+10/06/2025 07:42:31 대한민국 표준시 : Information : VsHubClient-hubController write: Content-Length: 366
+
+{"jsonrpc":"2.0","id":11,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService","Version":"0.1"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/Users/sebokoh/.ServiceHub/d7ecb1411c/a2188ece3c"},"ClientCredentials":{},"ClientCulture":"ko","ClientUICulture":"ko"}]}
+10/06/2025 07:42:31 대한민국 표준시 : Information : VsHubClient-hubController read: Content-Length: 164
+
+{"jsonrpc":"2.0","id":5,"result":{"RequestId":"68924c52-2e77-4a6b-8183-0da8e5cdb496","PipeName":"/Users/sebokoh/.ServiceHub/d7ecb1411c/33f8622441","IsEmpty":false}}Content-Length: 164
+
+{"jsonrpc":"2.0","id":4,"result":{"RequestId":"2e367b8b-935a-4bff-8ea4-c52091077481","PipeName":"/Users/sebokoh/.ServiceHub/d7ecb1411c/fe6e2f7eac","IsEmpty":false}}Content-Length: 165
+
+{"jsonrpc":"2.0","id":11,"result":{"RequestId":"351a275a-f590-4323-b4bd-7f4e5da9d9ae","PipeName":"/Users/sebokoh/.ServiceHub/d7ecb1411c/ead5de0d0a","IsEmpty":false}}
+10/06/2025 07:42:31 대한민국 표준시 : Information : VsHubClient-hubController write: Content-Length: 368
+
+{"jsonrpc":"2.0","id":12,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService","Version":"0.2"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/Users/sebokoh/.ServiceHub/d7ecb1411c/87495e5393"},"ClientCredentials":{},"ClientCulture":"ko","ClientUICulture":"ko"}]}
+10/06/2025 07:42:31 대한민국 표준시 : Information : VsHubClient-hubController read: Content-Length: 165
+
+{"jsonrpc":"2.0","id":12,"result":{"RequestId":"4d3c99bd-c46d-421c-b70d-5872fe7d7f59","PipeName":"/Users/sebokoh/.ServiceHub/d7ecb1411c/4ed90a5b9d","IsEmpty":false}}
+10/06/2025 07:42:31 대한민국 표준시 : Information : Disposing ServiceBroker server '/Users/sebokoh/.ServiceHub/d7ecb1411c/a2188ece3c'.
+10/06/2025 07:42:31 대한민국 표준시 : Information : Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":2,"processArchitecture":1,"runtime":2,"runtimeVersion":"9.0.9"}}]}
+10/06/2025 07:42:31 대한민국 표준시 : Information : Disposing ServiceBroker server '/Users/sebokoh/.ServiceHub/d7ecb1411c/73e62a526b'.
+10/06/2025 07:42:32 대한민국 표준시 : Information : Disposing ServiceBroker server '/Users/sebokoh/.ServiceHub/d7ecb1411c/0d90a25d7d'.
+10/06/2025 07:42:32 대한민국 표준시 : Information : Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":2,"processArchitecture":1,"runtime":2,"runtimeVersion":"9.0.9"}}]}
+10/06/2025 07:42:32 대한민국 표준시 : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":2,"processArchitecture":1,"runtime":2,"runtimeVersion":"9.0.9"}}]}
+10/06/2025 07:42:32 대한민국 표준시 : Information : Disposing ServiceBroker server '/Users/sebokoh/.ServiceHub/d7ecb1411c/87495e5393'.
+10/06/2025 07:42:32 대한민국 표준시 : Information : Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+10/06/2025 07:42:32 대한민국 표준시 : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+10/06/2025 07:42:32 대한민국 표준시 : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":2,"processArchitecture":1,"runtime":2,"runtimeVersion":"9.0.9"}}]}
+10/06/2025 07:42:32 대한민국 표준시 : Information : Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+10/06/2025 07:42:32 대한민국 표준시 : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+10/06/2025 07:42:32 대한민국 표준시 : Information : Microsoft.VisualStudio.Maui.Devices.AppleDeviceManager-RemoteServiceBrokerServer read: Content-Length: 177
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"ko","clientUICulture":"ko"}]}
+10/06/2025 07:42:32 대한민국 표준시 : Information : Microsoft.VisualStudio.Maui.UtilService-RemoteServiceBrokerServer read: Content-Length: 177
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"ko","clientUICulture":"ko"}]}
+10/06/2025 07:42:32 대한민국 표준시 : Information : Microsoft.VisualStudio.TestWindow.VSCode.Service-RemoteServiceBrokerServer read: Content-Length: 177
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"ko","clientUICulture":"ko"}]}
+10/06/2025 07:42:32 대한민국 표준시 : Information : Microsoft.VisualStudio.Maui.Devices.AndroidDeviceManager-RemoteServiceBrokerServer read: Content-Length: 177
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"ko","clientUICulture":"ko"}]}
+10/06/2025 07:42:32 대한민국 표준시 : Information : Microsoft.VisualStudio.TestWindow.VSCode.Service-RemoteServiceBrokerServer write: Content-Length: 181
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"a8ce3211-b184-4b77-aa21-4808a7bf80ad","pipeName":"/var/folders/dd/f2k55d550k56jsv4rd7v1_3m0000gn/T/276173cf6c5d4d7f9be03e0e9c88abce"}}
+10/06/2025 07:42:32 대한민국 표준시 : Information : Microsoft.VisualStudio.Maui.UtilService-RemoteServiceBrokerServer write: Content-Length: 181
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"212b04ca-de37-4b16-ba75-fdfa47f60c11","pipeName":"/var/folders/dd/f2k55d550k56jsv4rd7v1_3m0000gn/T/8c79a32bd2b04392a87cedc64f467375"}}
+10/06/2025 07:42:32 대한민국 표준시 : Information : Microsoft.VisualStudio.Maui.Devices.AndroidDeviceManager-RemoteServiceBrokerServer write: Content-Length: 181
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"121ce9ee-75f8-4158-a4bf-f6d732bb2d6f","pipeName":"/var/folders/dd/f2k55d550k56jsv4rd7v1_3m0000gn/T/e1c86a1c938c47829e51ccc4f423659a"}}
+10/06/2025 07:42:32 대한민국 표준시 : Information : Microsoft.VisualStudio.Maui.ProjectSystem.PropertiesMonitor-RemoteServiceBrokerServer read: Content-Length: 177
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"ko","clientUICulture":"ko"}]}
+10/06/2025 07:42:32 대한민국 표준시 : Information : Microsoft.VisualStudio.Maui.Devices.AppleDeviceManager-RemoteServiceBrokerServer write: Content-Length: 181
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"cf6f2e5e-bfcf-4168-9c95-b3155547b224","pipeName":"/var/folders/dd/f2k55d550k56jsv4rd7v1_3m0000gn/T/1ba77bbbfc1f4f7a996b088459529e41"}}
+10/06/2025 07:42:32 대한민국 표준시 : Information : Disposing ServiceBroker server '/Users/sebokoh/.ServiceHub/d7ecb1411c/5b6befa92c'.
+10/06/2025 07:42:32 대한민국 표준시 : Information : Microsoft.VisualStudio.Maui.ProjectSystem.MauiLaunchInformationService-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":2,"processArchitecture":1,"runtime":2,"runtimeVersion":"9.0.9"}}]}
+10/06/2025 07:42:32 대한민국 표준시 : Information : Microsoft.VisualStudio.Maui.ProjectSystem.MauiLaunchInformationService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+10/06/2025 07:42:32 대한민국 표준시 : Information : Microsoft.VisualStudio.Maui.ProjectSystem.PropertiesMonitor-RemoteServiceBrokerServer write: Content-Length: 181
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"7990b6ed-2703-44f2-80f4-827bc2bdf95f","pipeName":"/var/folders/dd/f2k55d550k56jsv4rd7v1_3m0000gn/T/aff99e1912b04113868617e39ea2e289"}}
+10/06/2025 07:42:32 대한민국 표준시 : Information : Microsoft.VisualStudio.Maui.ProjectSystem.MauiLaunchInformationService-RemoteServiceBrokerServer read: Content-Length: 177
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"ko","clientUICulture":"ko"}]}
+10/06/2025 07:42:32 대한민국 표준시 : Information : Microsoft.VisualStudio.Maui.ProjectSystem.MauiLaunchInformationService-RemoteServiceBrokerServer write: Content-Length: 181
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"04051f9f-89db-462c-b175-3ffbe11d3bb6","pipeName":"/var/folders/dd/f2k55d550k56jsv4rd7v1_3m0000gn/T/be30bd3a2a114464b8c5264f19fb0b5b"}}
+10/06/2025 07:42:32 대한민국 표준시 : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer read: Content-Length: 177
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"ko","clientUICulture":"ko"}]}
+10/06/2025 07:42:32 대한민국 표준시 : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer read: Content-Length: 177
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"ko","clientUICulture":"ko"}]}
+10/06/2025 07:42:32 대한민국 표준시 : Information : Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService-RemoteServiceBrokerServer read: Content-Length: 177
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"ko","clientUICulture":"ko"}]}
+10/06/2025 07:42:32 대한민국 표준시 : Information : Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService-RemoteServiceBrokerServer read: Content-Length: 177
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"ko","clientUICulture":"ko"}]}
+10/06/2025 07:42:32 대한민국 표준시 : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer write: Content-Length: 181
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"2adbe3d8-721f-43a9-8df6-ae0deaff4ac0","pipeName":"/var/folders/dd/f2k55d550k56jsv4rd7v1_3m0000gn/T/f54e6439f6234963a90ccad0f4cecfa3"}}
+10/06/2025 07:42:32 대한민국 표준시 : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer write: Content-Length: 181
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"53550b1d-bee2-4327-a255-0894360936e6","pipeName":"/var/folders/dd/f2k55d550k56jsv4rd7v1_3m0000gn/T/26d086d8e59740f389046c40cd585755"}}
+10/06/2025 07:42:32 대한민국 표준시 : Information : Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService-RemoteServiceBrokerServer write: Content-Length: 181
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"322388fb-7116-4e3e-aa37-68a5df184248","pipeName":"/var/folders/dd/f2k55d550k56jsv4rd7v1_3m0000gn/T/9aee080fb5e44e9daaea441b21d9d70b"}}
+10/06/2025 07:42:32 대한민국 표준시 : Information : Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService-RemoteServiceBrokerServer write: Content-Length: 181
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"111d38be-5807-4b9d-80d3-8301227aaf99","pipeName":"/var/folders/dd/f2k55d550k56jsv4rd7v1_3m0000gn/T/19dd7a31c6ce4f38bf5cdfdacb20af83"}}
+10/06/2025 07:42:33 대한민국 표준시 : Information : Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService-RemoteServiceBrokerServer read: Content-Length: 197
+
+{"jsonrpc":"2.0","id":4,"method":"requestServiceChannel","params":[{"name":"Microsoft.VisualStudio.ProjectSystem.CompositionService","version":"0.1"},{"clientCulture":"ko","clientUICulture":"ko"}]}
+10/06/2025 07:42:33 대한민국 표준시 : Information : VsHubClient-hubController write: Content-Length: 350
+
+{"jsonrpc":"2.0","id":13,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.ProjectSystem.CompositionService","Version":"0.1"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/Users/sebokoh/.ServiceHub/d7ecb1411c/d6f594a06d"},"ClientCredentials":{},"ClientCulture":"ko","ClientUICulture":"ko"}]}
+10/06/2025 07:42:33 대한민국 표준시 : Information : VsHubClient-hubController read: Content-Length: 165
+
+{"jsonrpc":"2.0","id":13,"result":{"RequestId":"b9b08590-c651-486b-88fc-014eb216724d","PipeName":"/Users/sebokoh/.ServiceHub/d7ecb1411c/1450f67c07","IsEmpty":false}}
+10/06/2025 07:42:33 대한민국 표준시 : Information : Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService-RemoteServiceBrokerServer write: Content-Length: 148
+
+{"jsonrpc":"2.0","id":4,"result":{"requestId":"b9b08590-c651-486b-88fc-014eb216724d","pipeName":"/Users/sebokoh/.ServiceHub/d7ecb1411c/1450f67c07"}}
+10/06/2025 07:42:33 대한민국 표준시 : Information : Disposing ServiceBroker server '/Users/sebokoh/.ServiceHub/d7ecb1411c/d6f594a06d'.
+10/06/2025 07:42:33 대한민국 표준시 : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":2,"processArchitecture":1,"runtime":2,"runtimeVersion":"9.0.9"}}]}
+10/06/2025 07:42:33 대한민국 표준시 : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+10/06/2025 07:42:33 대한민국 표준시 : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer read: Content-Length: 177
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"ko","clientUICulture":"ko"}]}
+10/06/2025 07:42:33 대한민국 표준시 : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer write: Content-Length: 181
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"afd383cf-d620-42d0-bf38-dbfd9e1ca5af","pipeName":"/var/folders/dd/f2k55d550k56jsv4rd7v1_3m0000gn/T/45509e0b9c564b3e9f6e87a3f8e4c20a"}}
+10/06/2025 07:42:33 대한민국 표준시 : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer read: Content-Length: 188
+
+{"jsonrpc":"2.0","id":4,"method":"requestServiceChannel","params":[{"name":"Microsoft.VisualStudio.ComponentExportsService","version":"0.1"},{"clientCulture":"ko","clientUICulture":"ko"}]}Content-Length: 191
+
+{"jsonrpc":"2.0","id":5,"method":"requestServiceChannel","params":[{"name":"Microsoft.VisualStudio.NoDelay.EnvironmentService","version":"0.1"},{"clientCulture":"ko","clientUICulture":"ko"}]}
+10/06/2025 07:42:33 대한민국 표준시 : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer write: Content-Length: 181
+
+{"jsonrpc":"2.0","id":4,"result":{"requestId":"e7a96c42-0087-4300-9ae9-ea5ad17cb924","pipeName":"/var/folders/dd/f2k55d550k56jsv4rd7v1_3m0000gn/T/961db9fb884a458981f7d6d8f192fb54"}}Content-Length: 181
+
+{"jsonrpc":"2.0","id":5,"result":{"requestId":"18332efd-fc19-4771-95e0-f4fac87620ab","pipeName":"/var/folders/dd/f2k55d550k56jsv4rd7v1_3m0000gn/T/dfef26ce264248c9849227913dcf96d4"}}
+10/06/2025 07:42:35 대한민국 표준시 : Information : VsHubClient-hubController write: Content-Length: 365
+
+{"jsonrpc":"2.0","id":14,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service","Version":"0.1"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/Users/sebokoh/.ServiceHub/d7ecb1411c/34efe73ae5"},"ClientCredentials":{},"ClientCulture":"ko","ClientUICulture":"ko"}]}
+10/06/2025 07:42:35 대한민국 표준시 : Information : VsHubClient-hubController read: Content-Length: 165
+
+{"jsonrpc":"2.0","id":14,"result":{"RequestId":"80309287-1409-4a74-b0f9-bff3b07206f8","PipeName":"/Users/sebokoh/.ServiceHub/d7ecb1411c/f02466243f","IsEmpty":false}}
+10/06/2025 07:42:35 대한민국 표준시 : Information : Disposing ServiceBroker server '/Users/sebokoh/.ServiceHub/d7ecb1411c/34efe73ae5'.
+10/06/2025 07:42:35 대한민국 표준시 : Information : Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":2,"processArchitecture":1,"runtime":2,"runtimeVersion":"9.0.9"}}]}
+10/06/2025 07:42:35 대한민국 표준시 : Information : Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+10/06/2025 07:42:35 대한민국 표준시 : Information : Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service-RemoteServiceBrokerServer read: Content-Length: 177
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"ko","clientUICulture":"ko"}]}
+10/06/2025 07:42:35 대한민국 표준시 : Information : Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service-RemoteServiceBrokerServer write: Content-Length: 181
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"551909a2-5330-46d9-8f01-3959d9bba60f","pipeName":"/var/folders/dd/f2k55d550k56jsv4rd7v1_3m0000gn/T/17c61bb11d9946b6bce44ed2f3b84d9b"}}
+10/06/2025 07:42:35 대한민국 표준시 : Information : Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service-RemoteServiceBrokerServer read: Content-Length: 287
+
+{"jsonrpc":"2.0","id":4,"method":"requestServiceChannel","params":[{"name":"Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService","version":"0.3"},{"clientCulture":"ko","clientUICulture":"ko"}],"traceparent":"00-cc3acf132ee5ec4bb18398d5e07c7515-ce0c10da728aa442-00"}
+10/06/2025 07:42:35 대한민국 표준시 : Information : VsHubClient-hubController write: Content-Length: 368
+
+{"jsonrpc":"2.0","id":15,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService","Version":"0.3"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/Users/sebokoh/.ServiceHub/d7ecb1411c/ff70376097"},"ClientCredentials":{},"ClientCulture":"ko","ClientUICulture":"ko"}]}
+10/06/2025 07:42:35 대한민국 표준시 : Information : VsHubClient-hubController read: Content-Length: 165
+
+{"jsonrpc":"2.0","id":15,"result":{"RequestId":"ed34949f-6963-499d-9cf0-25570ff7162f","PipeName":"/Users/sebokoh/.ServiceHub/d7ecb1411c/3c16f8ce9e","IsEmpty":false}}
+10/06/2025 07:42:35 대한민국 표준시 : Information : Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service-RemoteServiceBrokerServer write: Content-Length: 148
+
+{"jsonrpc":"2.0","id":4,"result":{"requestId":"ed34949f-6963-499d-9cf0-25570ff7162f","pipeName":"/Users/sebokoh/.ServiceHub/d7ecb1411c/3c16f8ce9e"}}
+10/06/2025 07:42:35 대한민국 표준시 : Information : Disposing ServiceBroker server '/Users/sebokoh/.ServiceHub/d7ecb1411c/ff70376097'.
+10/06/2025 07:42:35 대한민국 표준시 : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":2,"processArchitecture":1,"runtime":2,"runtimeVersion":"9.0.9"}}]}
+10/06/2025 07:42:35 대한민국 표준시 : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+10/06/2025 07:42:35 대한민국 표준시 : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer read: Content-Length: 177
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"ko","clientUICulture":"ko"}]}
+10/06/2025 07:42:35 대한민국 표준시 : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer write: Content-Length: 181
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"973bf0cc-73d6-4241-b7da-7493bf6be1c0","pipeName":"/var/folders/dd/f2k55d550k56jsv4rd7v1_3m0000gn/T/297b260616ac4f1984ffeee0ddebe26d"}}
+10/06/2025 07:53:51 대한민국 표준시 : Information : VsHubClient-hubController write: Content-Length: 328
+
+{"jsonrpc":"2.0","id":16,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.LaunchConfigurationService"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/Users/sebokoh/.ServiceHub/d7ecb1411c/9f4257a672"},"ClientCredentials":{},"ClientCulture":"ko","ClientUICulture":"ko"}]}Content-Length: 368
+
+{"jsonrpc":"2.0","id":17,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService","Version":"0.3"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/Users/sebokoh/.ServiceHub/d7ecb1411c/7ff8471812"},"ClientCredentials":{},"ClientCulture":"ko","ClientUICulture":"ko"}]}
+10/06/2025 07:53:51 대한민국 표준시 : Information : VsHubClient-hubController read: Content-Length: 165
+
+{"jsonrpc":"2.0","id":16,"result":{"RequestId":"ec2ba854-15d4-4d1e-82f2-6f4b4404cc48","PipeName":"/Users/sebokoh/.ServiceHub/d7ecb1411c/9100fccccb","IsEmpty":false}}Content-Length: 165
+
+{"jsonrpc":"2.0","id":17,"result":{"RequestId":"257f61c7-443c-47fc-9b11-7b4d2522fb10","PipeName":"/Users/sebokoh/.ServiceHub/d7ecb1411c/c44bbbb156","IsEmpty":false}}
+10/06/2025 07:53:51 대한민국 표준시 : Information : Disposing ServiceBroker server '/Users/sebokoh/.ServiceHub/d7ecb1411c/7ff8471812'.
+10/06/2025 07:53:51 대한민국 표준시 : Information : Disposing ServiceBroker server '/Users/sebokoh/.ServiceHub/d7ecb1411c/9f4257a672'.
+10/06/2025 07:53:51 대한민국 표준시 : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":2,"processArchitecture":1,"runtime":2,"runtimeVersion":"9.0.9"}}]}
+10/06/2025 07:53:51 대한민국 표준시 : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":2,"processArchitecture":1,"runtime":2,"runtimeVersion":"9.0.9"}}]}
+10/06/2025 07:53:51 대한민국 표준시 : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+10/06/2025 07:53:51 대한민국 표준시 : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+10/06/2025 07:53:51 대한민국 표준시 : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer read: Content-Length: 177
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"ko","clientUICulture":"ko"}]}
+10/06/2025 07:53:51 대한민국 표준시 : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer read: Content-Length: 177
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"ko","clientUICulture":"ko"}]}
+10/06/2025 07:53:51 대한민국 표준시 : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer write: Content-Length: 181
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"b065c01d-d137-4c1f-9097-cb34bdcad72f","pipeName":"/var/folders/dd/f2k55d550k56jsv4rd7v1_3m0000gn/T/af021b0a40124199a55773e6f2f1a972"}}
+10/06/2025 07:53:51 대한민국 표준시 : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer write: Content-Length: 181
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"0f654ab1-1b1d-4a99-a17b-1685dfd1f78e","pipeName":"/var/folders/dd/f2k55d550k56jsv4rd7v1_3m0000gn/T/5af60af523d94702807ec66bc1dbb29e"}}
+10/06/2025 07:53:51 대한민국 표준시 : Information : VsHubClient-hubController JSON RPC has been disposed
+10/06/2025 07:53:51 대한민국 표준시 : Information : VsHubClient-hubController read: end of stream
+10/06/2025 07:53:51 대한민국 표준시 : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer read: end of stream
+10/06/2025 07:53:51 대한민국 표준시 : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer read: end of stream
+10/06/2025 07:53:51 대한민국 표준시 : Information : Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService-RemoteServiceBrokerServer read: end of stream
+10/06/2025 07:53:51 대한민국 표준시 : Information : Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService-RemoteServiceBrokerServer read: end of stream
+10/06/2025 07:53:51 대한민국 표준시 : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer read: end of stream
+10/06/2025 07:53:51 대한민국 표준시 : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer read: end of stream
+10/06/2025 07:53:51 대한민국 표준시 : Information : Microsoft.VisualStudio.TestWindow.VSCode.Service-RemoteServiceBrokerServer read: end of stream
+10/06/2025 07:53:51 대한민국 표준시 : Information : Microsoft.VisualStudio.Maui.UtilService-RemoteServiceBrokerServer read: end of stream
+10/06/2025 07:53:51 대한민국 표준시 : Information : Microsoft.VisualStudio.Maui.Devices.AndroidDeviceManager-RemoteServiceBrokerServer read: end of stream
+10/06/2025 07:53:51 대한민국 표준시 : Information : Microsoft.VisualStudio.Maui.Devices.AppleDeviceManager-RemoteServiceBrokerServer read: end of stream
+10/06/2025 07:53:51 대한민국 표준시 : Information : Microsoft.VisualStudio.Maui.ProjectSystem.PropertiesMonitor-RemoteServiceBrokerServer read: end of stream

@@ -1,0 +1,10 @@
+﻿10/06/2025 11:50:27 대한민국 표준시 : Information : Local timezone is (UTC+09:00) 대한민국 표준시 (서울)
+10/06/2025 11:50:40 대한민국 표준시 : Information : VsHubClient-hubController write: Content-Length: 109
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":14443}]}
+10/06/2025 11:50:41 대한민국 표준시 : Information : VsHubClient-hubController read: Content-Length: 491
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://14503F02FC","ControllerConfig":{"Executable":"/Users/sebokoh/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-darwin-x64/components/vs-green-server/platforms/darwin-x64/node_modules/@microsoft/visualstudio-controller.darwin-x64/Microsoft.VisualStudio.Code.ServiceController","Args":["3f2c225c61"],"PipeName":"3f2c225c61"},"HostsConfig":{"EnableExternalAuthorizationService":false,"RootDir":".","AppConfigFallback":""}}}
+10/06/2025 11:50:41 대한민국 표준시 : Information : Connected to Hub Controller's client watch 'net.pipe://14503F02FC
+10/06/2025 11:56:51 대한민국 표준시 : Information : VsHubClient-hubController JSON RPC has been disposed
+10/06/2025 11:56:51 대한민국 표준시 : Information : VsHubClient-hubController read: end of stream
